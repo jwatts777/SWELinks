@@ -13,3 +13,8 @@ https://lirify-tan.vercel.app/
 
 https://github.com/oslabs-beta/canopy
 Chrome devtool for Svelte, requires a decent bit of install to even get off the ground.
+
+https://github.com/anuraghazra/VerlyRangeSlider
+Range sliders with some verlet physics magic!
+
+
