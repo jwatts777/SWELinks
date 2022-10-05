@@ -11,5 +11,5 @@ FrontEnd Analytics
 https://lirify-tan.vercel.app/
 - a song lyrics writing web app tool made in Latvia by Rolands Laucis with love for Svelte and good design.
 
-
-
+https://github.com/oslabs-beta/canopy
+Chrome devtool for Svelte, requires a decent bit of install to even get off the ground.
