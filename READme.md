@@ -1,6 +1,6 @@
 https://console.deepgram.com/signup?rdt_cid=4034392039568167517&utm_campaign=0822+Podcast+Use+Case+Campaign&utm_content=pip+install+meme&utm_medium=paidsocial&utm_source=reddit
 
-Seems to be an AI-based voice recognition software. COmes with $150 free of credits to use
+Seems to be an AI-based voice recognition software. Comes with $150 free of credits to use
 
 https://www.stackbit.com/features-and-benefits
 Stackbit, ui based framework for easier front end ui tooling and typing
@@ -16,5 +16,8 @@ Chrome devtool for Svelte, requires a decent bit of install to even get off the 
 
 https://github.com/anuraghazra/VerlyRangeSlider
 Range sliders with some verlet physics magic!
+
+Lighthouse web.dev 
+SEO and Website tools by Google.
 
 
